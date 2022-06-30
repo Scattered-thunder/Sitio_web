@@ -1,0 +1,80 @@
+#Barra_nav {
+    background-color: darkblue!important;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+#Boton_main {
+    background-color: rgb(255, 116, 2)!important;
+}
+
+#Hero {
+    background-image: url(../img/RTX_3080.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+#Beneficios #Galeria #Clientes {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.Img_beneficios {
+    border-radius: 50%;
+}
+
+.transparente {
+    background-color: rgba(73, 72, 72, 0.5);
+  }
+
+#Servicios {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+#Servicio_1 {
+    background-image: url(../img/Aorus.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#Servicio_2 {
+    background-image: url(../img/Geforce.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#Servicio_3 {
+    background-image: url(../img/Easy_tune.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.fadein {
+    opacity:0;
+}
+
+.fadeonload {
+    opacity:0;
+}
+
+.centrar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .testimonial-slider .carousel-indicators button {
+    width: 10px;
+    height: 10px;
+    background-color: darkblue;
+    border-radius: 100%;
+}
+.testimonial-slider {
+    padding: 10px 0px 40px;
+}
+
+#Pie_de_pagina {
+    background-color: rgb(247, 247, 247);
+}
